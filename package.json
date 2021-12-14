@@ -1,6 +1,6 @@
 {
   "name": "react-stt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Speech to text commponent for reactjs",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
