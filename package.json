@@ -4,11 +4,20 @@
   "description": "Speech to text commponent for reactjs",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HariKrishna-28/react-stt.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build-lib": "rollup -c"
   },
-  "keywords": [],
+  "keywords": [
+    "Speech To Text",
+    "ReactJs",
+    "React Speech To Text"
+  ],
+  "homepage": "https://github.com/HariKrishna-28/react-stt",
   "author": "Harikrishna C",
   "license": "MIT",
   "devDependencies": {
