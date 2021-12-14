@@ -1,6 +1,6 @@
-# react-stt
+# [React-STT](https://www.npmjs.com/package/react-stt)
 
-> This package lets you convert speech to text in a react app.
+> ### _This package lets you convert speech to text in a react app._
 
 <br>
 
@@ -14,7 +14,7 @@
 
 ## Example
 
-### Given below is a simple unstyled example that converts the speech and fills the input field.
+> ### _Given below is a simple unstyled example that converts the speech and fills the input field._
 
 <br>
 
@@ -47,3 +47,7 @@ function App() {
 
 export default App;
 ```
+
+<br>
+
+## Find the npm package [here.](https://www.npmjs.com/package/react-stt)
