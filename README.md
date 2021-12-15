@@ -6,9 +6,21 @@
 
 ## Instalation
 
+<br>
+
 ```bash
  npm i react-stt
 ```
+
+<br>
+
+## Props
+
+| <div align ="center">Name </div> | <div align = "center">Description</div> |
+| -------------------------------- | --------------------------------------- |
+| `exportText`                     | Returns the converted text.             |
+| `startMessage`                   | Start Message. Start by default         |
+| `stopMessage`                    | Stop Message. Stop by default           |
 
 <br>
 
