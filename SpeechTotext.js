@@ -40,18 +40,18 @@ const SpeechTotext = ({ exportText, startMessage = "Start", stopMessage = "Stop"
         if (isListening) {
             mic.start()
             mic.onend = () => {
-                console.log("continue")
+                // console.log("continue")
                 mic.start()
             }
         } else {
             mic.stop()
             mic.onend = () => {
-                console.log("Stopped mic")
+                // console.log("Stopped mic")
             }
         }
 
         mic.onstart = () => {
-            console.log("Mic's on")
+            // console.log("Mic's on")
         }
 
         mic.onresult = (e) => {
@@ -60,7 +60,7 @@ const SpeechTotext = ({ exportText, startMessage = "Start", stopMessage = "Stop"
                 .map(result => result.transcript)
                 .join("")
 
-            console.log(transcript)
+            // console.log(transcript)
             setNote(transcript)
             mic.onerror = (e) => {
                 console.log(e.error)

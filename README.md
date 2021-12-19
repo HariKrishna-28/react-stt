@@ -1,4 +1,4 @@
-# [React-STT](https://www.npmjs.com/package/react-stt)
+# React-STT
 
 > ### _This package lets you convert speech to text in a react app._
 
@@ -14,7 +14,7 @@
 
 <br>
 
-## Props
+## Attributes
 
 | <div align ="center">Name </div> | <div align = "center">Description</div> |
 | -------------------------------- | --------------------------------------- |
@@ -62,4 +62,4 @@ export default App;
 
 <br>
 
-## Find the npm package [here.](https://www.npmjs.com/package/react-stt)
+<!-- ## Find the npm package [here.](https://www.npmjs.com/package/react-stt) -->
